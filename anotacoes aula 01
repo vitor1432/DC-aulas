@@ -1,2 +1,2 @@
--Navegador
- Exibicao de conteudo: Apos processar e 
+URL: Uniform Resource Locator, endereco na Web. 
+HTTP VERBS: GET( solicitar recursos), POST( Enviar dados ao servidor), PUT( atualizar recursos existentes), DELETE(remover recursos)                                    HTTP STATUS: 200 OK(sucesso), 404 Not Found(recurso nao encontrado), 500 Internal Server Error(erro no servidor)     
