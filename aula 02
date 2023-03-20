@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html> 
+    <head>
+<title>My first Web Page</title>
+<meta charset="utf-8">
+    </head>
+    <body>
+        <h1>My first Web Page</h1>
+        <p>My first paragraph.</p>
+        <img src="https://upload.wikimedia.org/wikipedia/pt/thumb/7/72/Star_wars_the_clone_wars.jpg/250px-Star_wars_the_clone_wars.jpg" alt="My first image">
+    <img src="https://images.tcdn.com.br/img/img_prod/1019174/pimenta_do_reino_preta_organica_70g_772_1_94e9fa38e7354312b33b4f724ab83f77.jpg" alt="My second image">
+    <a href="https://www.google.com/search?q=amor&tbm=isch&ved=2ahUKEwiog_Xuy-v9AhUYFbkGHQMDBVYQ2-cCegQIABAA&oq=amor&gs_lcp=CgNpbWcQAzIHCAAQsQMQQzIECAAQQzIHCAAQsQMQQzIICAAQgAQQsQMyCAgAEIAEELEDMggIABCABBCxAzIECAAQAzIFCAAQgAQyCAgAEIAEELEDMggIABCABBCxAzoECCMQJzoFCAAQsQNQ4gZY3AlgvgtoAHAAeACAAZUBiAHcBZIBAzAuNZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=AeMYZOj-PJiq5OUPg4aUsAU&bih=677&biw=1422" target="_blank">Reino</a>
+    </body>
+</html>
