@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <title>Tabela</title>
+</head>
+<body>
+    <h1>Tabela</h1>
+    <table border="1">
+        <tr>
+            <th>ID</th>
+            <th>Nome</th>
+            <th>telefone</th>
+            <th>email</th>
+        </tr>
+        <tr>
+            <td>xxx</td>
+            <td>vitor</td>
+            <td>00000000</td>
+            <td>vitorgonzaga@gmail.com</td>
+            </tr>
+            <tr>
+                <td>xxx</td>
+                <td>vitor</td>
+                <td>00000000</td>
+                <td>vitorgonzaga@gmail.com</td>
+                </tr>
+                <tr>
+                    <td>xxx</td>
+                    <td>vitor</td>
+                    <td>00000000</td>
+                    <td>vitorgonzaga@gmail.com</td>
+                    </tr>
+                    <tr>
+                        <td>xxx</td>
+                        <td>vitor</td>
+                        <td>00000000</td>
+                        <td>vitorgonzaga@gmail.com</td>
+        </tr>
+    </table>
+</body>
+</html>
